@@ -1,0 +1,44 @@
+.homepage {
+    background-color: white;
+    width: 90vw;
+    height: 95vh;
+    padding: 0;
+  }
+
+
+.title{
+    background-color: blue;
+}
+.description{
+    background-color: rgb(100, 117, 245);
+}
+.row {
+    width: 100%;
+    height: 50px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between
+    
+  }
+  
+  .category {
+    background-color: white;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+  }
+  .card-grid {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 16px;
+  }
+  .card {
+    width: 170px;
+    z-index: -2;
+  }
+
+
+  
+

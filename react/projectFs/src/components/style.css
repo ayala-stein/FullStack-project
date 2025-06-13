@@ -1,0 +1,22 @@
+body{
+    background-image: url('../image/2.png');
+    background-size: cover;
+}
+
+.componentPosition{
+    position: absolute;
+    top: 20%;
+    left: 8%;
+    
+}
+.SignIn {
+    position: relative;
+  }
+.textField{
+    width: 100%;
+}
+.signupPosition{
+    position: absolute;
+    top: 0%;
+    left: 8%;
+}
